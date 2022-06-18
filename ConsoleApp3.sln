@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignemntOneGSG", "ConsoleApp3\AssignemntOneGSG.csproj", "{EE985E30-4A2F-4608-A4E4-F4CE5196AB3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE985E30-4A2F-4608-A4E4-F4CE5196AB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE985E30-4A2F-4608-A4E4-F4CE5196AB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE985E30-4A2F-4608-A4E4-F4CE5196AB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE985E30-4A2F-4608-A4E4-F4CE5196AB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E03D53F-D0C4-4BD9-A3C3-AAF931CD1C63}
+	EndGlobalSection
+EndGlobal

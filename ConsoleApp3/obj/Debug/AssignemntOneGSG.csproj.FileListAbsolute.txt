@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\DELL\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\DELL\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\DELL\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\AssignemntOneGSG.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\AssignemntOneGSG.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\AssignemntOneGSG.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\DELL\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
